@@ -1,0 +1,29 @@
+.layout {
+	width: 100%;
+	font-family: sans-serif;
+	background-image: url(http://images.fineartamerica.com/images-medium-large/rocky--heart-of-a-champion-bill-cannon.jpg);
+}
+
+.header {
+	
+	font-size: 2em;
+	font-weight: 900;
+	text-align: center;
+	margin-top: 5em;
+	color: red;
+
+}
+
+.instructions {
+	font-size: 2em;
+	font-weight: 900;
+	text-align: center;
+	color: red;
+	margin-top: 2em;
+	margin-bottom: 2em;
+
+}
+.paragraph {
+	margin: 0,auto;
+}
+
